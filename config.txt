@@ -1,0 +1,12 @@
+dimension Vecteur = 4
+Nombre de vecteurs = 60
+Hauteur Tableau = 10
+Largeur Tableau = 6
+mini = 0.02
+maxi = 0.05
+alpha initial = 0.8
+alpha phase 2 = 0.08
+Nombre itérations phase 1 = 500
+nombre itérations phase 2 = 2000
+rayon1 = 8
+rayon2 = 1

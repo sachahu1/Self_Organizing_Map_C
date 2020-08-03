@@ -1,0 +1,4 @@
+SOM for iris_data
+
+implement bmu_list[i] = [bmu.i][bmu.j]
+chooseRandomBmu(coord* bmu_list, nbBMU)
