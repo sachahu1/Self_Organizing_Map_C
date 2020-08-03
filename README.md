@@ -17,3 +17,9 @@ make # Compiles the project
 ./Iris # Launches the script
 ```
 Then, simply use the arrow keys and the enter key to select among the available options.
+
+## What is in this project ?
+- The Iris dataset : https://archive.ics.uci.edu/ml/datasets/iris (iris_data.txt)
+- A configuration file which allows for easy transfer of this algorithm onto another dataset (config.txt)
+- Makefile
+- Iris.c (standard C + Unix C libraries)
